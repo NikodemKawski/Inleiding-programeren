@@ -1,0 +1,13 @@
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/bin/Debug/netcoreapp3.1/Oefening1.deps.json
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/bin/Debug/netcoreapp3.1/Oefening1.runtimeconfig.json
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/bin/Debug/netcoreapp3.1/Oefening1.runtimeconfig.dev.json
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/bin/Debug/netcoreapp3.1/Oefening1.dll
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/bin/Debug/netcoreapp3.1/Oefening1.pdb
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.csproj.AssemblyReference.cache
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.AssemblyInfoInputs.cache
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.AssemblyInfo.cs
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.csproj.CoreCompileInputs.cache
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.dll
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.pdb
+/Users/nikodemkawski/Desktop/Programeren/Oefening1/Oefening1/obj/Debug/netcoreapp3.1/Oefening1.genruntimeconfig.cache
