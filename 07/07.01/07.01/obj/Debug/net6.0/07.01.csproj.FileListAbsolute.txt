@@ -1,0 +1,15 @@
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\bin\Debug\net6.0\07.01.exe
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\bin\Debug\net6.0\07.01.deps.json
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\bin\Debug\net6.0\07.01.runtimeconfig.json
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\bin\Debug\net6.0\07.01.dll
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\bin\Debug\net6.0\07.01.pdb
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.csproj.AssemblyReference.cache
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.AssemblyInfoInputs.cache
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.AssemblyInfo.cs
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.csproj.CoreCompileInputs.cache
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.dll
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\refint\07.01.dll
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.pdb
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\07.01.genruntimeconfig.cache
+D:\Avondopleiding Programeren\Inleiding Programeren\Inleiding-programeren\07\07.01\07.01\obj\Debug\net6.0\ref\07.01.dll
